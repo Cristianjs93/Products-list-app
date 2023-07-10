@@ -18,7 +18,7 @@ const Contact = () => {
             <div className="container-images__img">
                <img
                   className="container-images__pictures"
-                  src="../../public/contact__Cristian.jpg"
+                  src="../../src/assets/img/cristian.jpg"
                />
                <h3 className="container-images__profession">FULLSTACK DEVELOPER</h3>
                <h3 className="container-images__name">Cristian Jimenez</h3>
@@ -28,14 +28,13 @@ const Contact = () => {
                   <a
                      href="https://github.com/Cristianjs93"
                      target="_blank"
-                     className="container-images__github"
-                  >
+                     className="container-images__github">
                      Cristianjs93
                   </a>
                </h3>
             </div>
             <div className="container-images__img">
-               <img className="container-images__pictures" src="../../public/contact__Jesus.jpeg" />
+               <img className="container-images__pictures" src="../../src/assets/img/jesus.png" />
                <h3 className="container-images__profession">FULLSTACK DEVELOPER</h3>
                <h3 className="container-images__name">Jesus Bravo</h3>
                <h3 className="container-images__email">jesusBravoexample@test.com</h3>
@@ -44,8 +43,7 @@ const Contact = () => {
                   <a
                      href="https://github.com/jesusdavid24"
                      target="_blank"
-                     className="container-images__github"
-                  >
+                     className="container-images__github">
                      jesusdavid24
                   </a>
                </h3>
